@@ -71,9 +71,10 @@ a.no-underline {
 }
 
 #main {
-    margin-top: 160px;
-    /* padding: 20px 30px; */
+    margin-top: 60px;
+    padding: 20px 30px;
     transition: all 0.3s;
+    margin-left: 300px;
 }
 
 .pagetitle {
