@@ -1,12 +1,14 @@
-.header-title-area span{
+.header-title-area span {
     font-size: 26px;
     font-weight: 700;
     color: #012970;
     font-family: "Nunito", sans-serif;
 }
-a.no-underline{
+
+a.no-underline {
     text-decoration: none;
 }
+
 .header {
     height: 60px;
     background-color: #fff;
@@ -16,12 +18,14 @@ a.no-underline{
     padding-left: 20px;
 
 }
-.header .search-bar{
+
+.header .search-bar {
     min-width: 360px;
     padding: 0 10px;
     margin-left: auto;
 }
-.sidebar{
+
+.sidebar {
     position: fixed;
     top: 60px;
     width: 300px;
@@ -29,4 +33,54 @@ a.no-underline{
     background-color: #fff;
     height: 100%;
     padding: 20px;
+}
+
+.profile-header {
+    text-align: center;
+}
+
+.profile-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.profile-name {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.header-nav {
+    background-color: f8f9fa;
+    padding: 10px 0;
+}
+
+.header-nav ul {
+    list-style-type: none;
+    margin: auto;
+    padding: 20px;
+}
+
+.header-nav ul li {
+    margin-right: 30px;
+}
+
+.user-dashboard-button .nav-item {
+    margin-left: 40px;
+}
+
+#main {
+    margin-top: 160px;
+    /* padding: 20px 30px; */
+    transition: all 0.3s;
+}
+
+.pagetitle {
+    margin-bottom: 10px;
+}
+
+.pagetitle h1 {
+    font-size: 20px;
+    color: black;
 }
