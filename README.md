@@ -2,6 +2,7 @@
 This is a simple admin dashboard and user page project
 
 ## Project Structure
+```
 Admin User Page
 ├── .vscode/
 │   └── settings.json
@@ -12,7 +13,7 @@ Admin User Page
 │   └── user.html
 └── styles/
     └── style.css
-
+```
 ## Getting Started
 
 To get started with this project, clone the repository and open the `admin.html` or `user.html` file in your browser.
